@@ -25,4 +25,4 @@ function iLoveTheBeatles(n) {
   return beatlesLove;
 }
 
-console.log(iLoveTheBeatles(14))
+console.log(iLoveTheBeatles(10))
