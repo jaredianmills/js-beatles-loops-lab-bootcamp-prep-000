@@ -24,3 +24,5 @@ function iLoveTheBeatles(n) {
   } while (n < 15)
   return beatlesLove;
 }
+
+console.log(iLoveTheBeatles(2))
