@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   var i = facts.length - 1;
   while (i > 0) {
     lennonFactsArray.push(`${facts[i]}!!!`);
-    facts.length--;
+    --facts.length;
   }
   return lennonFactsArray;
 }
